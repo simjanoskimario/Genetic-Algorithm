@@ -19,5 +19,5 @@ A simple genetic algorithm. A number of little dudes called "Brians" are tasked 
   This is what the Brians look like after hundreds of generations have passed.
 </p>
 <p>
-  The initial values the program starts with are 1000 Brians, 1000 generations. Each Brian has 1000 steps each, the amount of times they hit a wall is counted for fitness, and their maximum distance away from the starting point is also preserved within each Brian.
+  The initial values the 1.0 version of the program starts with are 1000 Brians, 1000 generations. Each Brian has 1000 steps each, the amount of times they hit a wall is counted for fitness, and their maximum distance away from the starting point is also preserved within each Brian. 1.1 and onwards starts with a simple menu for passing values for agent count and generation count, everything else stays the same.
 </p>
